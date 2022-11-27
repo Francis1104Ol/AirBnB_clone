@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-
-'''Magic method __init__ that powers the models package'''
+''' Models package initializer module '''
 from models.engine.file_storage import FileStorage
 
 
